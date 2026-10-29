@@ -4,7 +4,9 @@ Lucas Rubira
 
 Tema:
 Perfil demografico do Brasil - 2022
-Estudo sobre a demografia do Brasil e suas variações.
+Estudo sobre a demografia do Brasil e suas variações.Distribuição da População por Idade, Estados e Municípios Brasileiros — Censo 2022
+Projeto desenvolvido integralmente em Python, utilizando a API SIDRA do IBGE para coletar, organizar e exportar dados da população brasileira por idade, contemplando todos os estados e municípios.
+A proposta é disponibilizar uma base de dados estruturada que permita comparar diferentes idades, faixas etárias, municípios e estados, possibilitando diversas combinações e consultas conforme a necessidade do usuário.
 
 Fonte: IBGE
 https://apisidra.ibge.gov.br/values/t/9514/n1/1/v/93/p/2022
