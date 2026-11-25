@@ -8,5 +8,8 @@ Estudo sobre a demografia do Brasil e suas variações.Distribuição da Popula�
 Projeto desenvolvido integralmente em Python, utilizando a API SIDRA do IBGE para coletar, organizar e exportar dados da população brasileira por idade, contemplando todos os estados e municípios.
 A proposta é disponibilizar uma base de dados estruturada que permita comparar diferentes idades, faixas etárias, municípios e estados, possibilitando diversas combinações e consultas conforme a necessidade do usuário.
 
+Link collab: https://colab.research.google.com/drive/1gLsTUZz6RGrio_FKzrPy9GXObtD7QiIC?usp=sharing
+Link Youtube: https://youtu.be/lcfrufn39ZY
+
 Fonte: IBGE
 https://apisidra.ibge.gov.br/values/t/9514/n1/1/v/93/p/2022
